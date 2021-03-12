@@ -42,9 +42,7 @@ band2 = ds.read(2)
 band3 = ds.read(3)
 brightness = (band1 + band2 + band3) / 3
 brightness
-
-
-'''
+```
 
 
 
