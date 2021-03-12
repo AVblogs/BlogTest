@@ -5,7 +5,9 @@ title: Inert(ia)
 
 ##### Inception
 
-It's been a year since **COVID** hit, and we've been stuck in this fugue state of lockdown and little to no personal contact. a great way of coping with this is to regress even further on the internet to eventully be one with the web, this blog is my first step in achieving the 'skynet dream'. 
+It's been a year since **COVID** hit, and we've been stuck in this fugue lockdown state. I have been too inert as of late, and I really need something to, promote a more positive and *academically inclined* version of myself. This blog , I think, will offer the proper impetus for this, metamorphosis to occur. Here's to hopping it's not too Kafka-esque
+
+![image](https://user-images.githubusercontent.com/80481305/110980747-31161180-8334-11eb-9ece-f49f12d44ec4.png)
 
 
 ##### Content 
@@ -13,6 +15,7 @@ It's been a year since **COVID** hit, and we've been stuck in this fugue state o
 I don't know if you're familiar with much of Shakespeare's work, but if I were to ascribe a title of one of his plays to describe this blog, it'd be 'much ado about nothing'. Don't expect anything else other than, poorly written, insane stream of consciousness babbling.
 
 To get the ball rolling: let's start with with a wee bit of code, which allows us to cary our some simple 'band math' while using google colab
+
 ``` python 
 import gdal
 !pip install rasterio
@@ -43,6 +46,4 @@ band3 = ds.read(3)
 brightness = (band1 + band2 + band3) / 3
 brightness
 ```
-
-
 
