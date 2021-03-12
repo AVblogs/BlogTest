@@ -1,9 +1,8 @@
 # Site settings
 #key value pair, colon segregated 
-title: Blog test -w- YAML
-author: ALEX
-name: Evan Will
-email: your-email@domain.com
+title: AVblogs
+name: Alexander Moses - Victor Vid
+email: alexandermoses88@gmail.com
 description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
