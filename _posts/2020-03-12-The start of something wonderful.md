@@ -12,7 +12,7 @@ It's been a year since **COVID** hit, and we've been stuck in this fugue lockdow
 
 ##### Content 
 
-I don't know if you're familiar with much of Shakespeare's work, but if I were to ascribe a title of one of his plays to describe this blog, it'd be 'much ado about nothing'. Don't expect anything else other than, poorly written, insane stream of consciousness babbling.
+What will be discussed greatly depends on what I'm doing. Expect, well, anything and everything.
 
 To get the ball rolling: let's start with with a wee bit of code, which allows us to cary our some simple 'band math' while using google colab
 
